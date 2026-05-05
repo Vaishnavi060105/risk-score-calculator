@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\vaishnavi khopkar\OneDrive\Desktop\risk-score-calculator\venv"
+VIRTUAL_ENV="C:\Users\vaishnavi khopkar\OneDrive\Desktop\risk-score-calculator\risk-score-calculator\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
